@@ -4,5 +4,12 @@ An Nesting algorithm that utilize bottom-left-fill and Enclosure methods. The al
 
 # Related test results:
 Irregular 2D shipbuilding objects for nesting:<br />
-![alt text](NestingForRhino6Python/Nesting Result Photos/After Nesting.png)
-![Image description](Nesting Result Photos/After Nesting.png)
+
+1. Before Nesting (All objects)
+![Before Nesting](NestingResultPhotos/BeforeNesting.png)
+
+2. Setting up nesting boards
+![Board Setup](NestingResultPhotos/Setup.png)
+
+3. Result after finish nesting
+![Nesting Results](NestingResultPhotos/AfterNesting.png)
